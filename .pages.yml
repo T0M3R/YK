@@ -65,11 +65,11 @@ content:
             label: Preço em reais (R$)
             type: number
             required: true
-            description: Informe somente o valor numérico, sem R$ ou separadores. Ex.: 4200.
+            description: "Informe somente o valor numérico, sem R$ ou separadores. Ex.: 4200."
           - name: priceUSD
             label: Preço em dólares (US$)
             type: number
-            description: Informe somente o valor numérico. Ex.: 840.
+            description: "Informe somente o valor numérico. Ex.: 840."
           - name: image
             label: Imagem da obra
             type: image
