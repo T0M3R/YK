@@ -1,0 +1,388 @@
+{
+  "artworks": [
+    {
+      "title": {
+        "pt": "Título da Obra I — Silêncio Atlântico",
+        "en": "Artwork Title I — Atlantic Silence"
+      },
+      "year": 2024,
+      "medium": {
+        "pt": "Óleo sobre tela",
+        "en": "Oil on canvas"
+      },
+      "size": "80 × 100 cm",
+      "orient": "landscape",
+      "category": "Pintura",
+      "priceBRL": 4200,
+      "priceUSD": 840,
+      "price": {
+        "pt": "R$ 4.200",
+        "en": "$840"
+      },
+      "seed": "art-hero-1",
+      "palette": [
+        "#1e3c72",
+        "#2a5298",
+        "#e8dcc4",
+        "#c99e67"
+      ],
+      "story": {
+        "pt": "Obra construída em camadas densas de óleo com espátula e glacês translúcidos, explorando a transição de luz sobre o horizonte marítimo ao entardecer. A textura física do pigmento cria nuances que mudam conforme a iluminação natural do ambiente.",
+        "en": "Built with dense palette-knife oil impasto and translucent glazes, exploring the shifting light over a coastal horizon at dusk. The physical relief of the pigment reveals new nuances as the room's natural light changes."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra II — Estudo em Azul Cobalto",
+        "en": "Artwork Title II — Study in Cobalt Blue"
+      },
+      "year": 2023,
+      "medium": {
+        "pt": "Acrílica sobre tela",
+        "en": "Acrylic on canvas"
+      },
+      "size": "60 × 80 cm",
+      "orient": "portrait",
+      "category": "Pintura",
+      "priceBRL": 3400,
+      "priceUSD": 680,
+      "price": {
+        "pt": "R$ 3.400",
+        "en": "$680"
+      },
+      "seed": "art-hero-2",
+      "palette": [
+        "#1649b3",
+        "#4976d6",
+        "#f4f1ea",
+        "#1c2230"
+      ],
+      "story": {
+        "pt": "Composição ritmada em tons profundos de azul cobalto e cru mineral. Pensada para dialogar com espaços contemporâneos, equilibrando gesto expressivo e silêncio visual.",
+        "en": "A rhythmic composition in deep cobalt blue and raw mineral tones. Conceived to dialogue with contemporary spaces, balancing expressive brushwork with visual calm."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra III — Bruma da Manhã",
+        "en": "Artwork Title III — Morning Mist"
+      },
+      "year": 2024,
+      "medium": {
+        "pt": "Aquarela sobre algodão",
+        "en": "Watercolor on cotton"
+      },
+      "size": "40 × 50 cm",
+      "orient": "landscape",
+      "category": "Pintura",
+      "priceBRL": 1900,
+      "priceUSD": 380,
+      "price": {
+        "pt": "R$ 1.900",
+        "en": "$380"
+      },
+      "seed": "art-hero-3",
+      "palette": [
+        "#6b8e9b",
+        "#b8cdd4",
+        "#f7f4ed",
+        "#3e535c"
+      ],
+      "story": {
+        "pt": "Executada sobre papel 100% algodão prensado a frio (300g/m²), esta aquarela captura a difusão atmosférica das primeiras horas do dia através de aguadas úmidas e pigmentos minerais.",
+        "en": "Painted on 300gsm cold-pressed 100% cotton paper, this watercolor captures the atmospheric diffusion of early morning through wet-on-wet washes and mineral pigments."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra IV — Anatomia da Sombra",
+        "en": "Artwork Title IV — Anatomy of Shadow"
+      },
+      "year": 2022,
+      "medium": {
+        "pt": "Grafite e carvão",
+        "en": "Graphite & charcoal"
+      },
+      "size": "50 × 70 cm",
+      "orient": "portrait",
+      "category": "Desenho",
+      "priceBRL": 1600,
+      "priceUSD": 320,
+      "price": {
+        "pt": "R$ 1.600",
+        "en": "$320"
+      },
+      "seed": "art-hero-4",
+      "palette": [
+        "#232329",
+        "#5c5c66",
+        "#dedbd2",
+        "#8c887f"
+      ],
+      "story": {
+        "pt": "Desenho de grande contraste combinando carvão vegetal prensado e grafite aveludado. O trabalho investiga o volume escultórico da luz através de hachuras e esfumados sutis.",
+        "en": "A high-contrast drawing combining compressed willow charcoal and velvety graphite. The piece investigates sculptural light volume through hatching and subtle tonal blending."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra V — Memória da Terra",
+        "en": "Artwork Title V — Memory of Earth"
+      },
+      "year": 2025,
+      "medium": {
+        "pt": "Técnica mista",
+        "en": "Mixed media"
+      },
+      "size": "70 × 70 cm",
+      "orient": "square",
+      "category": "Mista",
+      "priceBRL": 3800,
+      "priceUSD": 760,
+      "price": {
+        "pt": "R$ 3.800",
+        "en": "$760"
+      },
+      "seed": "art-hero-5",
+      "palette": [
+        "#8c583a",
+        "#c9936b",
+        "#efe9df",
+        "#2e2520"
+      ],
+      "story": {
+        "pt": "Fusão de pigmentos naturais, colagem em fibras japonesas e pasta acrílica estrutural em formato quadrado. Uma peça tátil que convida à contemplação de perto.",
+        "en": "A fusion of earth pigments, Japanese fiber collage, and structural acrylic paste in a square format. A tactile work that invites close-up contemplation."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra VI — Horizonte Gráfico",
+        "en": "Artwork Title VI — Graphic Horizon"
+      },
+      "year": 2021,
+      "medium": {
+        "pt": "Serigrafia artística",
+        "en": "Fine art screenprint"
+      },
+      "size": "45 × 60 cm",
+      "orient": "landscape",
+      "category": "Gravura",
+      "priceBRL": 1200,
+      "priceUSD": 240,
+      "price": {
+        "pt": "R$ 1.200",
+        "en": "$240"
+      },
+      "seed": "art-hero-6",
+      "palette": [
+        "#1b365d",
+        "#d96b43",
+        "#f4EFE6",
+        "#2b2b2b"
+      ],
+      "story": {
+        "pt": "Impressão serigráfica manual em 5 matrizes de cor sobre papel Hahnemühle, numerada e assinada a lápis pelo artista.",
+        "en": "Hand-pulled 5-layer screenprint on archival Hahnemühle paper, individually numbered and pencil-signed by the artist."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra VII — Noturno em Ouro Velho",
+        "en": "Artwork Title VII — Nocturne in Old Gold"
+      },
+      "year": 2024,
+      "medium": {
+        "pt": "Óleo sobre tela",
+        "en": "Oil on canvas"
+      },
+      "size": "100 × 120 cm",
+      "orient": "landscape",
+      "category": "Pintura",
+      "priceBRL": 5600,
+      "priceUSD": 1120,
+      "price": {
+        "pt": "R$ 5.600",
+        "en": "$1,120"
+      },
+      "seed": "art-hero-7",
+      "palette": [
+        "#192231",
+        "#b8924a",
+        "#404e68",
+        "#f0eadc"
+      ],
+      "story": {
+        "pt": "Tela de grande formato que funciona como ponto focal arquitetônico. Os tons profundos de índigo contrastam com velaturas quentes em ocre e ouro envelhecido.",
+        "en": "A large-scale canvas designed as an architectural focal point. Deep indigo tones contrast with warm glazes of ochre and aged gold."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra VIII — Vento Sul",
+        "en": "Artwork Title VIII — South Wind"
+      },
+      "year": 2023,
+      "medium": {
+        "pt": "Pastel seco",
+        "en": "Soft pastel"
+      },
+      "size": "35 × 45 cm",
+      "orient": "portrait",
+      "category": "Desenho",
+      "priceBRL": 1450,
+      "priceUSD": 290,
+      "price": {
+        "pt": "R$ 1.450",
+        "en": "$290"
+      },
+      "seed": "art-hero-8",
+      "palette": [
+        "#5a7684",
+        "#d6b899",
+        "#f2ece1",
+        "#2c3a42"
+      ],
+      "story": {
+        "pt": "Pigmento puro em bastão aplicado diretamente com os dedos, preservando a luminosidade aveludada única do pastel seco.",
+        "en": "Pure hand-rolled pastel pigment applied directly by hand, preserving the unmistakable velvety luminosity of dry pastel."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra IX — Duna e Sal",
+        "en": "Artwork Title IX — Dune & Salt"
+      },
+      "year": 2025,
+      "medium": {
+        "pt": "Acrílica e areia",
+        "en": "Acrylic & sand"
+      },
+      "size": "80 × 80 cm",
+      "orient": "square",
+      "category": "Mista",
+      "priceBRL": 4100,
+      "priceUSD": 820,
+      "price": {
+        "pt": "R$ 4.100",
+        "en": "$820"
+      },
+      "seed": "art-hero-9",
+      "palette": [
+        "#c2a882",
+        "#dfd3be",
+        "#475c6c",
+        "#f8f5ef"
+      ],
+      "story": {
+        "pt": "Incorpora quartzo fino e areia marinha lavada à emulsão acrílica, criando um relevo orgânico que projeta micro-sombras ao longo do dia.",
+        "en": "Incorporates fine quartz and washed coastal sand into acrylic emulsion, creating an organic relief that casts micro-shadows throughout the day."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra X — Arqueologia da Forma",
+        "en": "Artwork Title X — Archaeology of Form"
+      },
+      "year": 2022,
+      "medium": {
+        "pt": "Litografia",
+        "en": "Lithograph"
+      },
+      "size": "50 × 65 cm",
+      "orient": "portrait",
+      "category": "Gravura",
+      "priceBRL": 1500,
+      "priceUSD": 300,
+      "price": {
+        "pt": "R$ 1.500",
+        "en": "$300"
+      },
+      "seed": "art-hero-10",
+      "palette": [
+        "#2e3033",
+        "#7d6b5d",
+        "#ede8df",
+        "#a39586"
+      ],
+      "story": {
+        "pt": "Litografia original tirada em prensa plana a partir de matriz em pedra calcária, preservando a granulação autêntica do desenho.",
+        "en": "Original stone lithograph pulled on a flatbed press from limestone, preserving the authentic grain of the artist's hand."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra XI — Jardim Submerso",
+        "en": "Artwork Title XI — Submerged Garden"
+      },
+      "year": 2024,
+      "medium": {
+        "pt": "Aquarela",
+        "en": "Watercolor"
+      },
+      "size": "30 × 40 cm",
+      "orient": "landscape",
+      "category": "Pintura",
+      "priceBRL": 1350,
+      "priceUSD": 270,
+      "price": {
+        "pt": "R$ 1.350",
+        "en": "$270"
+      },
+      "seed": "art-hero-11",
+      "palette": [
+        "#2b5b54",
+        "#689c91",
+        "#e9f0ec",
+        "#1d3538"
+      ],
+      "story": {
+        "pt": "Transparências botânicas e aquáticas sobrepostas em camadas delicadas, trazendo frescor e profundidade lírica.",
+        "en": "Botanical and aquatic transparencies layered with delicate precision, bringing freshness and lyrical depth."
+      },
+      "image": ""
+    },
+    {
+      "title": {
+        "pt": "Título da Obra XII — Arquitetura do Tempo",
+        "en": "Artwork Title XII — Architecture of Time"
+      },
+      "year": 2023,
+      "medium": {
+        "pt": "Técnica mista",
+        "en": "Mixed media"
+      },
+      "size": "90 × 60 cm",
+      "orient": "landscape",
+      "category": "Mista",
+      "priceBRL": 3900,
+      "priceUSD": 780,
+      "price": {
+        "pt": "R$ 3.900",
+        "en": "$780"
+      },
+      "seed": "art-hero-12",
+      "palette": [
+        "#384454",
+        "#b07d56",
+        "#ece7de",
+        "#1c2128"
+      ],
+      "story": {
+        "pt": "Geometria sensível construída com velaturas acrílicas, carvão e folha metálica oxidada, evocando fachadas marcadas pelo tempo.",
+        "en": "Sensitive geometry built with acrylic glazes, charcoal, and oxidized metal leaf, evoking time-weathered architectural facades."
+      },
+      "image": ""
+    }
+  ]
+}
