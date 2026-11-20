@@ -1,0 +1,94 @@
+media:
+  input: media
+  output: /media
+
+content:
+  - name: artworks
+    label: Obras da galeria
+    type: file
+    path: content/artworks.json
+    format: json
+    fields:
+      - name: artworks
+        label: Obras
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title.pt} — {priceBRL} BRL"
+        fields:
+          - name: title
+            label: Título
+            type: object
+            fields:
+              - name: pt
+                label: Título em português
+                type: string
+                required: true
+              - name: en
+                label: Título em inglês
+                type: string
+          - name: year
+            label: Ano
+            type: number
+          - name: medium
+            label: Técnica / material
+            type: object
+            fields:
+              - name: pt
+                label: Português
+                type: string
+              - name: en
+                label: Inglês
+                type: string
+          - name: size
+            label: Dimensões
+            type: string
+          - name: orient
+            label: Orientação
+            type: select
+            options:
+              values:
+                - landscape
+                - portrait
+                - square
+          - name: category
+            label: Categoria
+            type: select
+            options:
+              values:
+                - Pintura
+                - Desenho
+                - Mista
+                - Gravura
+          - name: priceBRL
+            label: Preço em reais (R$)
+            type: number
+            required: true
+            description: Informe somente o valor numérico, sem R$ ou separadores. Ex.: 4200.
+          - name: priceUSD
+            label: Preço em dólares (US$)
+            type: number
+            description: Informe somente o valor numérico. Ex.: 840.
+          - name: image
+            label: Imagem da obra
+            type: image
+            description: Envie a imagem original da obra. Se ficar vazio, o site mantém a imagem ilustrativa atual.
+          - name: seed
+            label: Identificador da imagem ilustrativa
+            type: string
+            hidden: true
+          - name: palette
+            label: Paleta de cores
+            type: string
+            list: true
+          - name: story
+            label: Descrição da obra
+            type: object
+            fields:
+              - name: pt
+                label: Descrição em português
+                type: text
+              - name: en
+                label: Descrição em inglês
+                type: text
